@@ -1,0 +1,166 @@
+/* .top {
+    background-color: lightskyblue;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 5cm;
+} */
+
+.navbar {
+    background-color: lightskyblue;
+
+    justify-content: flex-end;
+    padding-right: 2cm;
+}
+
+.navbar2 {
+    background-color: rgb(255, 209, 4);
+
+    justify-content: center;
+    padding-right: 5px;
+    font-weight: bold;
+}
+
+.footer{
+    background-color: lightskyblue;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+    position:fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.header{
+    padding-top: 1%;
+    margin-right: 3.5cm;
+    font-weight: bold;
+}
+
+.navbar .nav-item a{
+    background-color: rgb(255, 209, 4) !important;
+    border-radius: 10px;
+    margin-left: 1cm;
+}
+
+.navbar2 .nav-item a{
+    margin-left: 1cm;
+}
+
+.dot {
+    height: 13cm;
+    width: 13cm;
+    background-color: lightskyblue;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.dot2 {
+    height: 12cm;
+    width: 12cm;
+    margin-top: 19px;
+    margin-left: 8px;
+    background-color: white;
+    border-radius: 50%;
+    display: inline-block;
+}
+.title{
+    margin-top: 180px;
+    margin-left: 20px;
+    font-size: 35px;
+}
+
+.title2{
+    margin-left: 180px;
+    font-size: 35px;
+}
+.row{
+    justify-content: center;
+}
+
+.headersignup{
+    text-decoration: underline;
+}
+
+.gender {
+    margin-left: 3cm;
+}
+
+.control-group{
+    display: flex;
+}
+
+.headerlayout0{
+    padding-top: 1%;
+    margin-right: 9cm;
+    font-weight: bold;
+}
+
+.headerlg{
+    padding-top: 1%;
+    margin-right: 8cm;
+    font-weight: bold;
+}
+
+.headerlg2{
+    padding-top: 1%;
+    margin-right: 5cm;
+    font-weight: bold;
+}
+
+.headerly{
+    padding-top: 1%;
+    margin-right: 10cm;
+    font-weight: bold;
+}
+
+.navbarmain{
+    display: flex;
+}
+
+.detailhead{
+    text-decoration: underline;
+}
+.titlesaved{
+    margin-top: 180px;
+    margin-left: 165px;
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+
+.titlesaved2{
+    margin-left: 155px;
+}
+
+.logout{
+    margin-top: 190px;
+    margin-left: 95px;
+    font-size: 35px;
+}
+---
+.form-signin input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+} */
+
+.form-signin input[type="password"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.container {
+    margin-top: 0.5cm;
+    margin-bottom: 1.5cm;
+}
+
+.body-bottom{
+    text-align:left;
+}
+
+.login-form .row
+{
+    margin-left: 2;
+    margin-right: 2;
+}
+
